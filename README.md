@@ -98,7 +98,7 @@ The final dashboard answers critical questions:
 
 ## 🚀 How to Run
 
-1. **Clone the repo:** `git clone https://github.com/AbdullahMahmoud23/Global-Weather-Analytics-Pipeline.git`
+1. **Clone the repo:** `git clone https://github.com/abdullah-mahmoud-datastack/Global-Weather-Analytics-Pipeline.git`
 2. **Install dependencies:** `pip install -r requirements.txt`
 3. **Run Ingestion:** `python scripts/extract.py`
 4. **Run Transformation:** `python scripts/transform.py`
